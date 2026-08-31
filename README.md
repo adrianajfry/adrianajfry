@@ -1,16 +1,76 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=120&section=header&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=d8b4fe&height=120&section=header&animation=fadeIn" />
+  <img alt="header wave" src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=120&section=header" />
+</picture>
 
-<!--
-**adrianajfry/adrianajfry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi, I'm Adriana
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" />
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Data+Engineering+Student+%40+UTM;C%2B%2B+%7C+Java+Developer;Music+Lover+%F0%9F%8E%B5;DPR+fan+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://adrianajfry04.github.io/">🌐 e-Portfolio</a> •
+  <a href="mailto:ADRIANA.KJEFRI@GMAIL.COM">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/adrianajefri">💼 LinkedIn</a>
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Data Engineering student at **Universiti Teknologi Malaysia (UTM)**
+- 📍 Based in Skudai, Johor Bahru, Malaysia
+- 🎵 Have a handful of music experiences — and yes, hot people listen to **DPR!**
+- 🌱 Currently building my foundation in OOP, data structures, and digital logic
+- 🔗 Check out my e-portfolio: [adrianajfry04.github.io](https://adrianajfry04.github.io/)
+
+---
+
+### 🛠️ Languages & Tools
+
+> From my coursework and project repositories:
+
+#### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java" alt="C++, Java" />
+</p>
+
+#### Tools & Environments
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,ps" alt="VS Code, Git, GitHub, Photoshop" />
+</p>
+
+---
+
+### 📚 Education
+
+| Year | Institution | Achievement |
+|---|---|---|
+| 2023 – present | **Universiti Teknologi Malaysia** | Current CGPA: 3.70 |
+| 2022 – 2023 | Mara College, Kuala Nerang | CGPA: 3.92 · MUET: Band 4 |
+| 2017 – 2021 | MRSM Felda Trolak | SPM: 6As · PT3: 7As |
+| 2012 – 2016 | SRAI Taman Keramat | UPSR: 5As |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianajfry04&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=80&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=d8b4fe&height=80&section=footer" />
+  <img alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=a855f7&height=80&section=footer" />
+</picture>

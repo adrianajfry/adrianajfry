@@ -27,7 +27,7 @@
 
 - 🎓 Data Engineering student at **Universiti Teknologi Malaysia (UTM)**
 - 📍 Based in Skudai, Johor Bahru, Malaysia
-- 🎵 Have a handful of music experiences — and yes, hot people listen to **DPR!**
+- 🎵 Have a handful of music experiences — **art lover!**
 - 🌱 Currently building my foundation in OOP, data structures, and digital logic
 - 🔗 Check out my e-portfolio: [adrianajfry04.github.io](https://adrianajfry04.github.io/)
 

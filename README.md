@@ -53,7 +53,7 @@
 
 | Year | Institution | Achievement |
 |---|---|---|
-| 2023 – present | **Universiti Teknologi Malaysia** | Current CGPA: 3.70 |
+| 2023 – present | **Universiti Teknologi Malaysia** | CGPA: 3.70 · GPA: 3.88 |
 | 2022 – 2023 | Kolej MARA, Kuala Nerang | CGPA: 3.92 · MUET: Band 4 |
 | 2017 – 2021 | MRSM Felda Trolak | SPM: 6As · PT3: 7As |
 | 2012 – 2016 | SRAI Taman Keramat | UPSR: 5As |

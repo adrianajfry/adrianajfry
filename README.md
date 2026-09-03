@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://adrianajfry04.github.io/">🌐 e-Portfolio</a> •
+  <a href="https://e-portfolio-nang4.vercel.app/#/">🌐 e-Portfolio</a> •
   <a href="mailto:ADRIANA.KJEFRI@GMAIL.COM">✉️ Email</a> •
   <a href="https://www.linkedin.com/in/adrianajefri">💼 LinkedIn</a>
 </p>

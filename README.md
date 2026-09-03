@@ -26,7 +26,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 Data Engineering student at **Universiti Teknologi Malaysia (UTM)**
-- 📍 Based in Skudai, Johor Bahru, Malaysia
+- 📍 Based in Kuala Lumpur, Malaysia
 - 🎵 Have a handful of music experiences — **art lover!**
 - 🌱 Currently building my foundation in OOP, data structures, and digital logic
 - 🔗 Check out my e-portfolio: [adrianajfry.com](https://e-portfolio-nang4.vercel.app/#/)

@@ -29,7 +29,7 @@
 - 📍 Based in Skudai, Johor Bahru, Malaysia
 - 🎵 Have a handful of music experiences — **art lover!**
 - 🌱 Currently building my foundation in OOP, data structures, and digital logic
-- 🔗 Check out my e-portfolio: [adrianajfry04.github.io](https://adrianajfry04.github.io/)
+- 🔗 Check out my e-portfolio: [adrianajfry.com](https://e-portfolio-nang4.vercel.app/#/)
 
 ---
 
